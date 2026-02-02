@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <VisaCard />
+      <h1>Hello World</h1>
     </>
   )
 }
